@@ -1,2 +1,2 @@
-# restoran-react
+# react-weather-apps
 Created with CodeSandbox

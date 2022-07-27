@@ -1,0 +1,68 @@
+.glavni-rol{
+    width: 98.9vw;
+    height: 92vh;
+    background-color: black;
+    position: absolute;
+    margin-top: 0;
+}
+.second-glavni{
+    width: 60%;
+    height: 70vh;
+    background-color: black;
+    border: 1px solid rgba(60, 113, 95, 0.521);
+    margin-left: 19vw;
+    margin-top: 8vh;
+}
+.h1-text-first{
+    color: white;
+    font-size: 2rem;
+    margin-left: 22vw;
+}
+.grid-flex{
+    width: 25vw;
+    height: 83%;
+    display: flex;
+    flex-direction: column;
+    line-height: 10vh;
+    
+}
+
+.div-text-container-1,
+ .div-text-container-2,
+  .div-text-container-3,
+   .div-text-container-4,
+    .div-text-container-5{
+    width: 80%;
+    height: 7vh;
+    color: white;
+    border: 1px solid rgba(60, 113, 95);
+    border-radius: 20px;
+    margin-left: 3vw;
+    text-align: center;
+    padding-bottom: 17px;
+    font-size: 1.7rem;
+    margin-top: 10px;
+}
+
+
+.first-glavni{
+    width: 25vw;
+    height: 83%;
+    
+}
+.for-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.for-button{
+    margin-top: 4vh;
+}
+.stack-button{
+ width: 70% !important;
+ padding-left: 4vw;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    background-color: black !important;
+    color: rgba(60, 113, 95, 0.521) !important;
+    border: 1px solid rgba(60, 113, 95) !important;
+}

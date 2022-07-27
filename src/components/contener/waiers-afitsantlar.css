@@ -1,0 +1,14 @@
+.h1-text{
+    position: absolute;
+    margin-left: 3vw;
+    top: 9.2vh;
+    color: white;
+}
+.type-text{
+    font-size: 1.3rem !important;
+    color: white !important;
+}
+.icon-arrow{
+    position: relative;
+    top: 0.7vh;
+}
