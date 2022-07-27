@@ -1,14 +1,23 @@
-.h1-text{
-    position: absolute;
-    margin-left: 3vw;
-    top: 9.2vh;
-    color: white;
+.h1-text {
+  position: absolute;
+  margin-left: 3vw;
+  top: 9.2vh;
+  color: white;
 }
-.type-text{
-    font-size: 1.3rem !important;
-    color: white !important;
+.type-text {
+  font-size: 1.3rem !important;
+  color: white !important;
 }
-.icon-arrow{
+.icon-arrow {
+  position: relative;
+  top: 0.7vh;
+}
+@media (max-width: 400px) {
+  .h1-text {
+    font-size: 1.5rem;
     position: relative;
-    top: 0.7vh;
+    left: 3vw;
+    top: -0vh;
+    left: 10vw;
+  }
 }
